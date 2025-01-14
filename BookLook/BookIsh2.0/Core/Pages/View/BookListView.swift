@@ -1,8 +1,4 @@
-////
-////  BookListView.swift
-////  BookIsh2.0
-////
-////  Created by Rakibul Nasib on 14/11/23.
+
 ////
 import SwiftUI
 
