@@ -1,9 +1,4 @@
-//
-//  RegistrationView.swift
-//  BookIsh2.0
-//
-//  Created by Rakibul Nasib on 10/11/23.
-//
+
 
 import SwiftUI
 
