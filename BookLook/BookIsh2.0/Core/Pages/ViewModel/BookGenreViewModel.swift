@@ -1,9 +1,4 @@
-//
-//  BookFetcher.swift
-//  BookIsh2.0
-//
-//  Created by Hafsa Tazrian on 11/24/23.
-//
+
 import Foundation
 
 class BookGenreViewModel: ObservableObject {
