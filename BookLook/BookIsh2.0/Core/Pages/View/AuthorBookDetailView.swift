@@ -1,9 +1,3 @@
-//
-//  AuthorBookDetailView.swift
-//  BookIsh2.0
-//
-//  Created by Hafsa Tazrian on 11/25/23.
-//
 
 import SwiftUI
 
